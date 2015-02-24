@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1406447725 source:d:\practice\codeblocks\codechef\contests\ltime\ltime14\adad\main.cpp
+	<stdio.h>
+	<iostream>
+	<cstring>
+	<string>
+
